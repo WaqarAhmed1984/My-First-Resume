@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: white;
+    line-height: 1.5em;
+}
+.main{
+    text-align: center;
+    background-color: antiquewhite;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    height: 80px;
+}
+.main h1{
+    padding-top: 7px;
+}
